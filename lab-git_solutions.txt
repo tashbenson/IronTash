@@ -1,0 +1,10 @@
+3. Clone that repo to your computer.
+(base) MacBook-Air:Afternoon natashabenson$ git clone https://github.com/tashbenson/IronTash.git
+
+4. Create a file in that folder. Name it about.txt and add a fun fact about yourself. (You can use the command line: touch nameOfTheFile.txt).
+(base) MacBook-Air:Afternoon natashabenson$ cd IronTash
+(base) MacBook-Air:IronTash natashabenson$ touch about.txt
+(base) MacBook-Air:IronTash natashabenson$ echo I enjoy playing sports especially hockey and netball. >> about.txt
+
+
+
